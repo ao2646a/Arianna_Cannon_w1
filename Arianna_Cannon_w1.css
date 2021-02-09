@@ -1,0 +1,126 @@
+/*Ferrari Cannon 1*/
+h1{ 
+    text-align: center;
+    font-family: 'Alice', serif;
+    font-size: 3rem;    
+}
+
+/*Search, Shop, Designs, About 2*/
+aside, ul{
+    text-align: left;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: .8rem;
+}
+
+/*Remove underline for link 3*/
+a:any-link{
+    text-decoration: none;
+    color: black;
+}
+
+/*Allow underline for link for hover*/
+a:hover{
+    text-decoration: underline;
+}
+
+/*Language selection, my account, shopping cart 4*/
+.Nav2{
+    text-align: right;
+    text-transform: uppercase;
+    font-size: .8rem;  
+}
+
+#mainimage{
+    display: inline-block;
+    padding-left: 200px;
+}
+/*Cannon Collection 5*/
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+/*box*/
+.leftmiddlephoto{
+    margin: 10px;
+    display: inline-block;
+    padding-left: 100px;
+    padding-right: 10px;
+}
+
+/*box*/
+.leftmiddlephoto p{
+    padding-left: 100px;
+    padding-top: 10px;
+    margin: 3px; 
+    width: 400px;
+    font-size: .75rem;
+    font-style: oblique;
+    font-family: sans-serif;
+    line-height: 2;
+    font-weight: 100;
+    padding-right: 20px;
+}
+
+/*box model*/
+#rightmiddlephoto {
+    width: 400px;
+    display: inline-block;
+}
+
+/*box model*/
+#rightmiddlephoto p {
+    font-size: .75rem;
+    font-style: oblique;
+    font-family: sans-serif;
+    line-height: 2;
+    font-weight: 100;
+    width: 400px;
+    padding-left: 100px;
+}
+
+/*F 6*/
+/*box model*/
+h3:first-letter{
+    text-align: center;
+    font-family: 'Alice', serif;  
+    font-size: 3rem;   
+    color: black;
+    /*space in box for letter*/  
+    padding: 0 .5rem;
+    /*width of border box*/  
+    border: 2.5px solid;
+    /*how circular border is*/  
+    border-radius: 1px;        
+}
+
+/*The Sewing Machine and The Modern Woman 7*/
+h6{
+    text-align: center;
+    font-size: .8rem;
+}
+
+/*Footer 8*/
+.Contact{
+    text-align: center;    
+}
+/*box model*/
+/*photogaller 9*/
+div.photogallery{
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 2.5px;
+    border: 1px solid black;
+}
+
+/*photogaller 10*/
+div.capt{
+    padding: 3px;
+    text-align: center;
+    font-size: .7rem;
+    font-family: 'Alice', serif;   
+}
