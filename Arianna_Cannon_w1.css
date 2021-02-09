@@ -31,6 +31,7 @@ a:hover{
     font-size: .8rem;  
 }
 
+/*ID*/
 #mainimage{
     display: inline-block;
     padding-left: 200px;
@@ -43,7 +44,7 @@ h2{
     font-weight: bolder;
 }
 
-/*box*/
+/*class and box*/
 .leftmiddlephoto{
     margin: 10px;
     display: inline-block;
@@ -51,7 +52,7 @@ h2{
     padding-right: 10px;
 }
 
-/*box*/
+/*class and box*/
 .leftmiddlephoto p{
     padding-left: 100px;
     padding-top: 10px;
@@ -65,13 +66,13 @@ h2{
     padding-right: 20px;
 }
 
-/*box model*/
+/*ID and box model*/
 #rightmiddlephoto {
     width: 400px;
     display: inline-block;
 }
 
-/*box model*/
+/*ID and box model*/
 #rightmiddlephoto p {
     font-size: .75rem;
     font-style: oblique;
