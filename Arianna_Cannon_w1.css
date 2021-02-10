@@ -1,12 +1,12 @@
-/*Ferrari Cannon 1*/
+/*Ferrari Cannon 1 and box*/
 h1{ 
     text-align: center;
     font-family: 'Alice', serif;
-    font-size: 3rem;    
+    font-size: 3rem;
 }
 
 /*Search, Shop, Designs, About 2*/
-aside, ul{
+div aside, ul{
     text-align: left;
     list-style: none;
     text-transform: uppercase;
@@ -29,13 +29,15 @@ a:hover{
     text-align: right;
     text-transform: uppercase;
     font-size: .8rem;  
+    padding-bottom: 25px;
 }
 
 /*ID*/
-#mainimage{
+#coverphoto{
     display: inline-block;
     padding-left: 200px;
 }
+
 /*Cannon Collection 5*/
 h2{
     text-align: center;
